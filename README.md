@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="center">A passionate frontend developer from Florida</h3>
-<br/><br/>
+<br />
+<br />
+
 - 🔭 I’m currently working on ... Three.js Website
 - 🌱 I’m currently learning ... React and Three.js
 - 👯 I’m looking to collaborate on ... Web developement and Content Creation 🤔 
