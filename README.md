@@ -6,7 +6,7 @@
 - 💬 Ask me about Art
 - 📫 How to reach me: mdejesus1127@gmail.com
 - 😄 Pronouns: He~ He~ (just she/her)
-- ⚡ Fun fact: I <3 
+- ⚡ Fun fact: I <3 pasta 
 
 ### Languages and Tools:
 
@@ -32,14 +32,14 @@
 
 <details>
 <summary>:zap: GitHub Most Used Languages</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakoAburrito&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakoAburrito)](https://github.com/MakoAburrito/github-readme-stats)
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakoAburrito)](https://github.com/MakoAburrito/github-readme-stats)
 <!--
 **MakoAburrito/MakoAburrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakoAburrito&layout=compact)
 
 Here are some ideas to get you started:
 
