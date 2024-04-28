@@ -30,7 +30,14 @@
 
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakoAburrrito&layout=compact)
+<details>
+<summary>:zap: GitHub Most Used Languages</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakoAburrito&layout=compact)
+
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakoAburrito)](https://github.com/MakoAburrito/github-readme-stats)
 <!--
 **MakoAburrito/MakoAburrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
